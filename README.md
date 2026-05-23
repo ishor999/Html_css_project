@@ -1,4 +1,4 @@
-# Registration-form-D19
+# Registration-form
 Registartion form in HTML and CSS
 
 
